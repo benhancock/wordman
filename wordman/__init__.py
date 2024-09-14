@@ -1,1 +1,0 @@
-from .wordman import main
